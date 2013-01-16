@@ -93,10 +93,53 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.port {
+    overflow: hidden;
+}
 
+.parallax-layer {
+    position: absolute;
+}
 
+.parallax-layer > div {
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 
+.bg {
+    width: 1800px;
+    height: 1125px;
 
+    background-image: url('../img/bg.jpg') ;
+}
+
+.ships {
+    width: 212px;
+    height: 240px;
+
+    background-image: url('../img/empire-ships.png') ;
+}
+
+.ship {
+    width: 683px;
+    height: 205px;
+
+    background-image: url('../img/ship.png') ;
+}
+
+.title {
+    width: 659px;
+    height: 522px;
+
+    background-image: url('../img/title.png') ;
+}
+
+.woowon {
+    width: 1319px;
+    height: 1500px;
+
+    background-image: url('../img/woowon.png') ;
+}
 
 
 
