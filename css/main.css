@@ -117,10 +117,11 @@ img {
 
 .ships {
     width: 212px;
-    margin-top: -300px;
+    margin-top: -500px;
 }
 
 .ship {
+    margin-top: -900px;
     width: 583px;
 }
 
